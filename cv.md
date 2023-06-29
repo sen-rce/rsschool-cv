@@ -44,6 +44,12 @@ During the participation in the case championship, our team was faced with the t
 - Analyzed the market and competitors.
 After the speech, one of the top managers of the company became interested in the further development of our product.
 
+# Education 
+
+Belarusian National Technical University - 2021 - 2025 
+
+Faculty of Management, Marketing and Entrepreneurship. "Management of innovative projects"
+
 # Courses 
 
 COURSERA - 
@@ -73,8 +79,11 @@ Business and Entrepreneurship
 YOUNG WINDS -
 Oratory
 
-# English Level 
-B2 English (Upper Intermediate) 
+# Languages
+- Belarussian (Native Speaker)
+- Russian (Native Speaker)
+- English (Upper Intermediate B2)
+- Chinese (Beginner A1)
 
 # Social activity
 VOLUNTEER, COUNSELOR, TRANSLATOR - 
