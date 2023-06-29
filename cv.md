@@ -1,8 +1,14 @@
 # Arseny Malykh
 
+# About Me
 Without losing efficiency, I combine education, work, various courses and sports. I like to work in a team, directing people and projects in the right direction. If I do not understand the topic, I close this gap in a short time.
 
-## Contacts (https://www.linkedin.com/in/arseny-malykh/)
+## Contacts 
+- Location: Minsk, Belarus
+- Phone: +375 29 690-68-20
+- Email: isaacmalykh@gmail.com
+- GitHub: sen-rce
+- LinkedIn: https://www.linkedin.com/in/arseny-malykh/
 
 # Junior Product Manager at Kufar 
 Internship · Jun 2022 - Aug 2022 · 3 months · Hybrid work format
